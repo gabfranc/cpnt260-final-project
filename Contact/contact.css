@@ -8,7 +8,7 @@
 }
 
 html{
-  background-image: url('/Images/CoffeeLivingRoomImg.png');
+  background-image: url('../Images/CoffeeLivingRoomImg.png');
   background-repeat: no-repeat;
   background-position: center;
   object-fit: fill;
@@ -18,7 +18,7 @@ html{
 }
 
 html:hover{
-  background-image: url('/Images/Kitchen.jpg');
+  background-image: url('../Images/Kitchen.jpg');
   margin-top: 10vh;
   height: 130vh;
   background-repeat: no-repeat;
