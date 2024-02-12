@@ -8,7 +8,7 @@
 }
 
 html{
-  background-image: url('/Images/FamilyUnboxing.jpg');
+  background-image: url('../Images/FamilyUnboxing.jpg');
   background-repeat: no-repeat;
   background-position: center;
   object-fit: cover;
@@ -19,7 +19,7 @@ html{
 
 html:hover{
   opacity:85%;
-  background-image: url('/Images/CoffeeLivingRoomImg.png');
+  background-image: url('../Images/CoffeeLivingRoomImg.png');
   height: 100vh;
   background-repeat: no-repeat;
   background-position: center;
